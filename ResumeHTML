@@ -71,7 +71,9 @@
                         <div class="subsection">
                             <div class="work-header">
                                 <div class="subsection-header activities">
-                                    RITSEC Club
+                                    <a href="https://www.ritsec.club/">
+                                        RITSEC
+                                    </a>     
                                 </div>
                                 <!-- <div class="subsection-header center">
                                     Member
@@ -310,23 +312,24 @@
                         <!-- <hr> -->
                         <div class="subsection">
                             <div class="subsection-header">
-                                Programming and Coding
+                                Programming Languages
                             </div>
                             <div class="tally">
-                                Java &bull; Python &bull; HTML &bull; CSS &bull; VSCode <br> IntelliJ &bull; PyCharm &bull; OnlineGDB
+                                Java &bull; Python &bull; HTML &bull; CSS
                             </div>
                             <div class="subsection-header">
                                 Tools
                             </div>
                             <div class="tally">
-                                Wireshark &bull; Github &bull; VMware &bull; VirtualBox  <br> Linux Console &bull; PowerShell
+                                Wireshark &bull; Github &bull; VMware &bull; VirtualBox <br> Console &bull; PowerShell &bull;
+                                VSCode <br> IntelliJ &bull; PyCharm &bull;
                             </div>
-                            <div class="subsection-header">
+                            <!-- <div class="subsection-header">
                                 Learning
                             </div>
                             <div class="tally">
                                 C &bull; C++ &bull; Docker &bull; Metasploit <br> BurpSuite &bull; Ansible
-                            </div>
+                            </div> -->
                             <div class="subsection-header">
                                 Operating Systems
                             </div>
